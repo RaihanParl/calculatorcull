@@ -1,11 +1,26 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Kalkulator",
+  "name": "Kalkulator satandard",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "calculator16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "calculator32.png",
+      "sizes": "34x32",
+      "type": "image/png"
+    },
+    {
+      "src": "calculator64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "calculator.png",
+      "sizes": "128x128",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
